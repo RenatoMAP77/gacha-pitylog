@@ -1,0 +1,1 @@
+ALTER TABLE `games` ADD `ordem` integer DEFAULT 0 NOT NULL;
